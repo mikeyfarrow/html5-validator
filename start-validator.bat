@@ -1,0 +1,1 @@
+cmd /k %~dp0\Java\bin\java.exe -Xss512k -cp %~dp0\nu.validator\vnu.jar nu.validator.servlet.Main 8888
